@@ -1,0 +1,15 @@
+[0m[[0m[0mdebug[0m] [0m[0mPackaging /Users/shekharkarande/learnSpace/scala_upskilling/scala_lang/target/scala-2.13/helloworld_2.13-0.1.jar ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mInput file mappings:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Hello$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/shekharkarande/learnSpace/scala_upskilling/scala_lang/target/scala-2.13/classes/Hello$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	example[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/shekharkarande/learnSpace/scala_upskilling/scala_lang/target/scala-2.13/classes/example[0m
+[0m[[0m[0mdebug[0m] [0m[0m	example/Main$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/shekharkarande/learnSpace/scala_upskilling/scala_lang/target/scala-2.13/classes/example/Main$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	example/Main.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/shekharkarande/learnSpace/scala_upskilling/scala_lang/target/scala-2.13/classes/example/Main.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	example/Main$delayedInit$body.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/shekharkarande/learnSpace/scala_upskilling/scala_lang/target/scala-2.13/classes/example/Main$delayedInit$body.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Hello.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/shekharkarande/learnSpace/scala_upskilling/scala_lang/target/scala-2.13/classes/Hello.class[0m
+[0m[[0m[0mdebug[0m] [0m[0mDone packaging.[0m

@@ -1,0 +1,1 @@
+scalac -bootclasspath /Users/shekharkarande/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/scala-library/2.13.2/scala-library-2.13.2.jar -classpath /Users/shekharkarande/learnSpace/scala_upskilling/scala_lang/target/scala-2.13/classes /Users/shekharkarande/learnSpace/scala_upskilling/scala_lang/src/main/scala/example/Main.scala

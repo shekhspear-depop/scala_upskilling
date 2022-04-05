@@ -1,0 +1,13 @@
+[0m[[0m[0mdebug[0m] [0m[0m[watch] [scala_lang / Compile / run] Found inputs: /Users/shekharkarande/learnSpace/scala_upskilling/scala_lang/*.{java,scala},/Users/shekharkarande/learnSpace/scala_upskilling/scala_lang/src/main/java/**/*.{java,scala},/Users/shekharkarande/learnSpace/scala_upskilling/scala_lang/src/main/resources/**/*,/Users/shekharkarande/learnSpace/scala_upskilling/scala_lang/src/main/scala/**/*.{java,scala},/Users/shekharkarande/learnSpace/scala_upskilling/scala_lang/src/main/scala-2.13/**/*.{java,scala}[0m
+[0m[[0m[0minfo[0m] [0m[0m1. Monitoring source files for scala_lang/run...[0m
+[0m[[0m[0minfo[0m] [0m[0m   Press <enter> to interrupt or '?' for more options.[0m
+[0m[[0m[0mdebug[0m] [0m[0mscala_lang / Compile / run - Accepted event for /Users/shekharkarande/learnSpace/scala_upskilling/scala_lang/src/main/scala/example/Main.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0mReceived Update(/Users/shekharkarande/learnSpace/scala_upskilling/scala_lang/src/main/scala/example/Main.scala,FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false),FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false))[0m
+[0m[[0m[0mdebug[0m] [0m[0mReceived event for path /Users/shekharkarande/learnSpace/scala_upskilling/scala_lang/src/main/scala/example/Main.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0mReceived event for path /Users/shekharkarande/learnSpace/scala_upskilling/scala_lang/src/main/scala/example/Main.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0mCreating update event for modified /Users/shekharkarande/learnSpace/scala_upskilling/scala_lang/src/main/scala/example/Main.scala (previous stamp: Hash(a5dc56b21a071d58cf5205a87c6a87b6cd2f8f47), current stamp: Hash(c41c056dac5172eb6a268a0de02164087e4dd5b5))[0m
+[0m[[0m[0mdebug[0m] [0m[0mReceived file event actions: /Users/shekharkarande/learnSpace/scala_upskilling/scala_lang/src/main/scala/example/Main.scala -> Trigger. Returning: (Update(/Users/shekharkarande/learnSpace/scala_upskilling/scala_lang/src/main/scala/example/Main.scala, 2020-Jun-15 09:24:49.650 BT),Trigger)[0m
+[0m[[0m[0minfo[0m] [0m[0mBuild triggered by /Users/shekharkarande/learnSpace/scala_upskilling/scala_lang/src/main/scala/example/Main.scala. Running 'run'.[0m
+[0m[[0m[0mdebug[0m] [0m[0m[watch] [debug] Received file event Trigger for Update(/Users/shekharkarande/learnSpace/scala_upskilling/scala_lang/src/main/scala/example/Main.scala, 2020-Jun-15 09:24:49.650 BT).[0m
+[0m[[0m[0minfo[0m] [0m[0m2. Monitoring source files for scala_lang/run...[0m
+[0m[[0m[0minfo[0m] [0m[0m   Press <enter> to interrupt or '?' for more options.[0m
